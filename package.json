@@ -1,0 +1,21 @@
+{
+  "name": "frosty-pine",
+  "displayName": "Frosty Pine",
+  "description": "Nature inspired crispy dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Frosty Pine",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Frosty Pine-color-theme.json"
+      }
+    ]
+  }
+}
