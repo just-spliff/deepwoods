@@ -3,7 +3,7 @@
   "displayName": "Frosty Pine",
   "description": "Nature inspired crispy dark theme",
   "publisher": "just-spliff",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "engines": {
     "vscode": "^1.70.0"
   },
