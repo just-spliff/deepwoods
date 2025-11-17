@@ -600,10 +600,6 @@
       }
     },
     {
-      "name": "Markup - Quote",
-      "scope": ["markup.quote"]
-    },
-    {
       "name": "Markdown - Link",
       "scope": ["string.other.link.title.markdown"],
       "settings": {
