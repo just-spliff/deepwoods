@@ -5,7 +5,7 @@
   "publisher": "just-spliff",
   "version": "1.0.4",
   "engines": {
-    "vscode": "^1.106.0"
+    "vscode": "^1.70.0"
   },
   "categories": [
     "Themes"
