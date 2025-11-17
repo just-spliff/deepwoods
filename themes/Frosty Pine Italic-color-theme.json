@@ -677,17 +677,92 @@
       "settings": {
         "foreground": "#F5F8F6"
       }
+    },
+    ,
+    {
+      "name": "Italics – keywords (flow)",
+      "scope": [
+        "keyword.control",
+        "keyword.operator.expression",
+        "keyword.operator.new",
+        "keyword.control.flow"
+      ],
+      "settings": {
+        "foreground": "#A8B3AE",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Italics – types & classes",
+      "scope": [
+        "entity.name.type",
+        "entity.name.class",
+        "support.type",
+        "support.class",
+        "storage.type",
+        "storage.type.class",
+        "storage.type.interface"
+      ],
+      "settings": {
+        "foreground": "#D0DDDA",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Italics – parameters",
+      "scope": [
+        "variable.parameter",
+        "meta.parameter.type",
+        "meta.function.parameters",
+        "meta.method.parameters"
+      ],
+      "settings": {
+        "foreground": "#CBEA96",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Italics – this / self",
+      "scope": ["variable.language.this", "variable.language.self"],
+      "settings": {
+        "foreground": "#B0CCBF",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Italics – decorators / annotations",
+      "scope": [
+        "meta.decorator",
+        "entity.name.function.decorator",
+        "tag.decorator.js entity.name.tag.js",
+        "tag.decorator.js punctuation.definition.tag.js"
+      ],
+      "settings": {
+        "foreground": "#F5F8F6",
+        "fontStyle": "italic"
+      }
     }
   ],
   "semanticTokenColors": {
-    "parameter": "#CBEA96", // parametry funkcji – lekko żółtawa zieleń
-    "variable.readonly": "#E0F8E6", // consty – jasna „mroźna” zieleń
-    "property": "#F0FBF2", // pola obiektów – prawie białozielone
-    "namespace": "#8FD39A", // przestrzenie nazw / moduły
-    "type": "#D0DDDA", // typy – chłodna jasna szarość
-    "enumMember": "#CBEA96",
-    "function": "#6BA874", // spójnie z tym co mamy w tokenColors
-    "method": "#6BA874",
-    "event": "#8FD39A"
+    "parameter": {
+      "foreground": "#CBEA96",
+      "italic": true
+    },
+    "variable.readonly": {
+      "foreground": "#E0F8E6",
+      "italic": true
+    },
+    "property": {
+      "foreground": "#F0FBF2",
+      "italic": true
+    },
+    "enumMember": {
+      "foreground": "#CBEA96",
+      "italic": true
+    },
+    "type": {
+      "foreground": "#D0DDDA",
+      "italic": true
+    }
   }
 }

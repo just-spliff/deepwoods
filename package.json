@@ -20,6 +20,11 @@
         "label": "Frosty Pine",
         "uiTheme": "vs-dark",
         "path": "./themes/Frosty Pine-color-theme.json"
+      },
+      {
+        "label": "Frosty Pine Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Frosty Pine Italic-color-theme.json"
       }
     ]
   }
