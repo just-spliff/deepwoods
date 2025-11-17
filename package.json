@@ -4,6 +4,7 @@
   "description": "Forest-inspired crispy dark theme",
   "publisher": "just-spliff",
   "version": "1.1.1",
+  "icon": "images/deepwoods.png",
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -45,6 +46,16 @@
         "label": "Deepwoods Atumn Needles Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/deepwoods-atumn_needles_italic.json"
+      },
+      {
+        "label": "Deepwoods High Canopy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/deepwoods-high_canopy.json"
+      },
+      {
+        "label": "Deepwoods High Canopy Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/deepwoods-high_canopy_italic.json"
       }
     ]
   }
