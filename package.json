@@ -1,7 +1,7 @@
 {
   "name": "frosty-pine",
-  "displayName": "Frosty Pine",
-  "description": "Nature inspired crispy dark theme",
+  "displayName": "Deepwoods",
+  "description": "Forest-inspired crispy dark theme",
   "publisher": "just-spliff",
   "version": "1.0.6",
   "engines": {
@@ -17,12 +17,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Frosty Pine",
+        "label": "Deepwoods Spring Thaw",
         "uiTheme": "vs-dark",
-        "path": "./themes/Frosty Pine-color-theme.json"
+        "path": "./themes/deepwoods-spring_thaw.json"
       },
       {
-        "label": "Frosty Pine Italic",
+        "label": "Deepwoods Spring Thaw Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/Frosty Pine Italic-color-theme.json"
       }
