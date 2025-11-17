@@ -22,6 +22,38 @@
     "editorInlayHint.foreground": "#A8B3AE",
     "editorInlayHint.background": "#101514",
 
+      // Terminal
+  "terminal.background": "#060809",
+  "terminal.foreground": "#F5F8F6",
+  "terminalCursor.foreground": "#E0F8E6",
+  "terminalCursor.background": "#060809",
+  "terminal.selectionBackground": "#1A2A2580",
+
+  // ANSI base colors
+  "terminal.ansiBlack": "#101414",
+  "terminal.ansiBrightBlack": "#3A4440",
+
+  "terminal.ansiRed": "#4E7D5A",          // „danger”, ale dalej zielonkawy
+  "terminal.ansiBrightRed": "#6BA874",
+
+  "terminal.ansiGreen": "#8FD39A",
+  "terminal.ansiBrightGreen": "#CBEA96",
+
+  "terminal.ansiYellow": "#CBEA96",       // żółcień = jaśniejsza zieleń
+  "terminal.ansiBrightYellow": "#E0F8E6",
+
+  "terminal.ansiBlue": "#A8B3AE",         // chłodna szarość jako „blue”
+  "terminal.ansiBrightBlue": "#D0DDDA",
+
+  "terminal.ansiMagenta": "#A8B3AE",
+  "terminal.ansiBrightMagenta": "#D0DDDA",
+
+  "terminal.ansiCyan": "#E0F8E6",
+  "terminal.ansiBrightCyan": "#F5F8F6",
+
+  "terminal.ansiWhite": "#F5F8F6",
+  "terminal.ansiBrightWhite": "#FFFFFF"
+
     // Sidebar
     "sideBar.background": "#060809",
     "sideBarTitle.foreground": "#A8B3AE",
