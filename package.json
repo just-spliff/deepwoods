@@ -2,6 +2,7 @@
   "name": "frosty-pine",
   "displayName": "Frosty Pine",
   "description": "Nature inspired crispy dark theme",
+  "publisher": "just-spliff",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.106.0"
@@ -9,6 +10,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/just-spliff/frosty-pine.git"
+  },
   "contributes": {
     "themes": [
       {
