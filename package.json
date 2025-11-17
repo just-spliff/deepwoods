@@ -3,7 +3,7 @@
   "displayName": "Deepwoods",
   "description": "Forest-inspired crispy dark theme",
   "publisher": "just-spliff",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "engines": {
     "vscode": "^1.70.0"
   },
