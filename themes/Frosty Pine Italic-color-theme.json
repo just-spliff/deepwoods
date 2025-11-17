@@ -678,7 +678,6 @@
         "foreground": "#F5F8F6"
       }
     },
-    ,
     {
       "name": "Italics – keywords (flow)",
       "scope": [
