@@ -24,7 +24,17 @@
       {
         "label": "Deepwoods Spring Thaw Italic",
         "uiTheme": "vs-dark",
-        "path": "./themes/Frosty Pine Italic-color-theme.json"
+        "path": "./themes/deepwoods-spring_thaw_italic.json"
+      },
+      {
+        "label": "Deepwoods Frosted Pines",
+        "uiTheme": "vs-dark",
+        "path": "./themes/deepwoods-frosted_pines.json"
+      },
+      {
+        "label": "Deepwoods Frosted Pines Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/deepwoods-frosted_pines_italic.json"
       }
     ]
   }
