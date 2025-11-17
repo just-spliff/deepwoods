@@ -35,6 +35,16 @@
         "label": "Deepwoods Frosted Pines Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/deepwoods-frosted_pines_italic.json"
+      },
+      {
+        "label": "Deepwoods Atumn Needles",
+        "uiTheme": "vs-dark",
+        "path": "./themes/deepwoods-atumn_needles.json"
+      },
+      {
+        "label": "Deepwoods Atumn Needles Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/deepwoods-atumn_needles_italic.json"
       }
     ]
   }
