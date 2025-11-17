@@ -676,18 +676,30 @@
     }
   ],
   "semanticTokenColors": {
-    "parameter": "#CBEA96",
+    "parameter": {
+      "foreground": "#CBEA96",
+      "fontStyle": "italic"
+    },
     "variable.readonly": {
       "foreground": "#E0F8E6",
       "fontStyle": "italic"
     },
-    "property": "#F0FBF2",
-    "namespace": "#8FD39A",
+    "property": {
+      "foreground": "#F0FBF2",
+      "fontStyle": "italic"
+    },
+    "namespace": {
+      "foreground": "#8FD39A",
+      "fontStyle": "italic"
+    },
     "type": {
       "foreground": "#D0DDDA",
       "fontStyle": "italic"
     },
-    "enumMember": "#CBEA96",
+    "enumMember": {
+      "foreground": "#CBEA96",
+      "fontStyle": "italic"
+    },
     "function": {
       "foreground": "#6BA874",
       "fontStyle": "italic"
